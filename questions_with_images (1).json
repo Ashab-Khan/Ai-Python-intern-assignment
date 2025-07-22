@@ -1,0 +1,182 @@
+[
+  {
+    "question": "1. Find the next figures in the figure pattern given below.",
+    "images": "images/page1_img2.png",
+    "option_images": [
+      "images/page1_img4.png",
+      "images/page1_img5.png",
+      "images/page1_img6.png",
+      "images/page1_img7.png"
+    ]
+  },
+  {
+    "question": "2. Complete the number pattern.",
+    "images": "images/page1_img8.png",
+    "option_images": []
+  },
+  {
+    "question": "3. In the questions given below, the series with one or more",
+    "images": "images/page2_img4.png",
+    "option_images": []
+  },
+  {
+    "question": "4. Number of the groups of 9 paper clips (",
+    "images": "images/page2_img6.jpeg",
+    "option_images": []
+  },
+  {
+    "question": "5. How many bananas are kept outside the basket?",
+    "images": "images/page2_img7.png",
+    "option_images": []
+  },
+  {
+    "question": "6. A programme of children ended at the time shown on the",
+    "images": "images/page3_img2.png",
+    "option_images": []
+  },
+  {
+    "question": "7. Suresh had 112 bookmarks. He gives some bookmarks to her",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "8. Count and write the amount of money.",
+    "images": "images/page4_img2.jpeg",
+    "option_images": []
+  },
+  {
+    "question": "9. Six cats are numbered as follows:",
+    "images": "images/page4_img3.png",
+    "option_images": []
+  },
+  {
+    "question": "10. Sonia bought 45 candies. She gave 22 cookies to her sister.",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "11. Which of the following is greatest?",
+    "images": "images/page5_img4.png",
+    "option_images": []
+  },
+  {
+    "question": "12. Write \u2018+\u2019 or \u2018\u2013\u2019 in each",
+    "images": "images/page5_img5.png",
+    "option_images": []
+  },
+  {
+    "question": "14. The length of BD is 1 cm less than the total length of AB",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "15. The length of CD is twice that of BC. What is the length of",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "16. Which of the following clocks shows 30 minutes after 4",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "17. Sent gold High School has 453 students. It has 23 more",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "18. Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car.",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "19. Which tree has apples more than 6 but less than 9?",
+    "images": null,
+    "option_images": [
+      "images/page8_img2.jpeg",
+      "images/page8_img3.jpeg",
+      "images/page8_img4.jpeg",
+      "images/page8_img5.jpeg"
+    ]
+  },
+  {
+    "question": "20. Which abacus shows 15 \u2013 13 = 13?",
+    "images": null,
+    "option_images": [
+      "images/page8_img6.png",
+      "images/page8_img7.png",
+      "images/page8_img8.png",
+      "images/page8_img9.png"
+    ]
+  },
+  {
+    "question": "21. Which of the following is smallest?",
+    "images": "images/page9_img2.png",
+    "option_images": []
+  },
+  {
+    "question": "22. 6 hundreds 3 tens 2 ones \u2013 3 hundreds 2 tens 6 ones =",
+    "images": "images/page9_img3.png",
+    "option_images": []
+  },
+  {
+    "question": "24. A number bond is shown below.",
+    "images": "images/page9_img6.png",
+    "option_images": []
+  },
+  {
+    "question": "25. Tanya has following two pencils.",
+    "images": "images/page10_img2.png",
+    "option_images": []
+  },
+  {
+    "question": "26. There were 298 hens and cows on a farm.",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "27. Write the correct time for the clock shown below.",
+    "images": "images/page10_img3.png",
+    "option_images": []
+  },
+  {
+    "question": "28. Sumit has following flowers and balloons.",
+    "images": "images/page11_img2.png",
+    "option_images": []
+  },
+  {
+    "question": "29. A bag of rice weighs 3 kg. How much do 6 bags of rice",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "30. If only all Saturdays and Sundays are holidays, then in the",
+    "images": "images/page11_img4.jpeg",
+    "option_images": []
+  },
+  {
+    "question": "31. How much do the counters add up to?",
+    "images": "images/page12_img2.png",
+    "option_images": []
+  },
+  {
+    "question": "32. The packet of rice has a mass of _______________ kg.",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "33. Fill in the blank:",
+    "images": "images/page13_img2.png",
+    "option_images": []
+  },
+  {
+    "question": "34. Which of the following is the CORRECT way of writing 8",
+    "images": null,
+    "option_images": []
+  },
+  {
+    "question": "35. Tonu gave Rs 50 to buy this ball. How much money will he",
+    "images": "images/page13_img3.png",
+    "option_images": []
+  }
+]
