@@ -10,6 +10,7 @@ Option images ([A], [B], [C], [D]) if present
 The output is saved in a JSON format suitable for quizzes, e-learning, or data labeling use.
 
 ✅ Features
+
     📄 Extracts questions from PDF pages using regex
 
     🖼 Extracts and saves images with bounding box position
